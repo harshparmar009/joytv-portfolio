@@ -1,6 +1,7 @@
 'use client';
 
-import Footer from '@/components/pages/footer';
+// import Footer from '@/components/pages/footer';
+import Footer from '@/components/pages/Footer';
 import Navbar from '@/components/pages/Navbar';
 import Image from 'next/image';
 
